@@ -1,0 +1,13 @@
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\bin\Debug\netcoreapp3.1\Assignment6-9.exe
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\bin\Debug\netcoreapp3.1\Assignment6-9.deps.json
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\bin\Debug\netcoreapp3.1\Assignment6-9.runtimeconfig.json
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\bin\Debug\netcoreapp3.1\Assignment6-9.runtimeconfig.dev.json
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\bin\Debug\netcoreapp3.1\Assignment6-9.dll
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\bin\Debug\netcoreapp3.1\Assignment6-9.pdb
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\obj\Debug\netcoreapp3.1\Assignment6-9.csprojAssemblyReference.cache
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\obj\Debug\netcoreapp3.1\Assignment6-9.csproj.CoreCompileInputs.cache
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\obj\Debug\netcoreapp3.1\Assignment6-9.AssemblyInfoInputs.cache
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\obj\Debug\netcoreapp3.1\Assignment6-9.AssemblyInfo.cs
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\obj\Debug\netcoreapp3.1\Assignment6-9.dll
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\obj\Debug\netcoreapp3.1\Assignment6-9.pdb
+C:\Users\Shwet\source\repos\Assignment6-9\Assignment6-9\obj\Debug\netcoreapp3.1\Assignment6-9.genruntimeconfig.cache
